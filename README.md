@@ -1,5 +1,5 @@
-# Análisis-de-la-reputación-en-Twitter
-Trabajo de Fin de Máster.
+# Análisis de la reputación en Twitter  
+## Trabajo de Fin de Máster
 
 Este GitHub consta de dos carpetas:  
   -Una que contiene los grafos (en formato HTML) de ciertas menciones o temas políticos. En ellos, se representa las cuentas de Twitter
