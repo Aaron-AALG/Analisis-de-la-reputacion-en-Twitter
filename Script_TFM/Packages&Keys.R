@@ -20,7 +20,7 @@ library(dygraphs)
 ### KEYS AND TOKENS ###
 Mashape_key = " "
 consumer_key <- " "
-consumer_secret <-" "
+consumer_secret <- " "
 access_token <- " "
 access_secret <- " " 
 myapp = oauth_app("twitter", key=consumer_key, secret=consumer_secret)
